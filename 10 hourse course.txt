@@ -1,0 +1,21 @@
+React, Spring, MongoDB, REST API
+JSON
+JSX
+Basics of Apache Maven or Gradle – project management tool 
+Understanding pom.xml
+Spring/SpringBoot
+
+TOC - Introducing Spring 5.0 | Infosys Springboard (onwingspan.com)
+TOC - Spring Essentials | Infosys Springboard (onwingspan.com)
+TOC - Maven Basics | Infosys Springboard (onwingspan.com)
+About Hibernate Framework - Viewer Page | Infosys Springboard (onwingspan.com)
+TOC - Introduction to Automation Testing | Infosys Springboard (onwingspan.com)
+TOC - Docker, Dockerfile, and Docker-Compose (2020 Ready!) | Infosys Springboard (onwingspan.com)
+TOC - Deploying and Running Docker Containers | Infosys Springboard (onwingspan.com)
+TOC - Containers & Images | Infosys Springboard (onwingspan.com)
+TOC - Container Orchestration | Infosys Springboard (onwingspan.com)
+TOC - Docker Skills: Advanced Docker Orchestration | Infosys Springboard (onwingspan.com)
+Learn Kubernetes Basics
+Basics of REST
+HTTP Concepts
+NoSQL
